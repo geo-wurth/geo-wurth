@@ -27,7 +27,7 @@ Welcome to my world 🌎
 [<img align="center" alt="george-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">](https://www.linkedin.com/in/george-wurthmann-87515625/)
 [<img align="center" alt="george-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;">](https://www.facebook.com/george.wurthmann)
 [<img align="center" alt="george-whatsapp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/598px-WhatsApp.svg.png" style="max-width:100%;">](https://api.whatsapp.com/send?phone=5511960408881)
-[<img align="center" alt="george-email" height="30" width="30" src="https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/256/Communication-email-blue-icon.png" style="max-width:100%;">](mailto:ghwj_@hotmail.com?subject=Contato%20pelo%20Github)
+[<img align="center" alt="george-email" height="40" width="40" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:ghwj_@hotmail.com?subject=Contato%20pelo%20Github)
 
 
 
