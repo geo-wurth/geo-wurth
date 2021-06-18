@@ -21,7 +21,7 @@ Welcome to my world 🌎
 
 * I'm living in Mogi das Cruzes / São Paulo - Brazil
 * I'm learning more about <img align="center" alt="react" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">  <img align="center" alt="redux" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="max-width:100%;">  <img align="center" alt="nodejs" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">  <img align="center" alt="materialui" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" style="max-width:100%;">  <img align="center" alt="spring" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="max-width:100%;">     <img align="center" alt="r" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="max-width:100%;"> 
-* I’m currently working with systems development on [*P H Engenharia e Projetos*] - Empresa de consultoria de projetos
+* I’m currently working with project management on [*P H Engenharia e Projetos*] - Empresa de consultoria de projetos
 
 **Academic Background**
 
