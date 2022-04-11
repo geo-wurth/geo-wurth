@@ -13,17 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 🤙
+# I'm George Wurthmann
 
-# 🤖 I'm George Wurthmann
-
-Welcome to my world 🌎
+### A little about myself
 
 * I live in Mogi das Cruzes / São Paulo - Brazil
 * I'm learning more about <img align="center" alt="react" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">  <img align="center" alt="redux" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="max-width:100%;">  <img align="center" alt="nodejs" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">  <img align="center" alt="materialui" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" style="max-width:100%;">    <img align="center" alt="yarn" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" style="max-width:100%;">   <img align="center" alt="express" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width:100%;">  <img align="center" alt="postgreSQL" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 * I’m currently working with project management on <a href="http://www.phep.eng.br/">[*P H Engenharia e Projetos*] - Empresa de consultoria de projetos</a> and I'm a autonomous software developer.
 
-Academic Background
+### Academic Background
 
 * *Mechanical Engineering Bachelor Degree* issued by **UMC** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
 * *Project Management MBA Degree* issued by **FGV** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
