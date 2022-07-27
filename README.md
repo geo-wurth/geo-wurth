@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="george-linkedln" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">](https://www.linkedin.com/in/george-wurthmann-87515625/)
 [<img align="center" alt="george-facebook" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;">](https://www.facebook.com/george.wurthmann)
 [<img align="center" alt="george-whatsapp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/598px-WhatsApp.svg.png" style="max-width:100%;">](https://api.whatsapp.com/send?phone=5511960408881)
-[<img align="center" alt="george-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:ghwj_@hotmail.com?subject=Contato%20pelo%20Github)
+[<img align="center" alt="george-email" height="35" width="35" src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Places-mail-message-icon.png" style="max-width:100%;">](mailto:george.wurthmann@phep.eng.br?subject=Contato%20pelo%20Github)
 
 
 
@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 
 ## Some of my works
 * [P H Engenharia e Projetos](http://www.phep.eng.br/) - Website that I created, developed, deployed and own.
-* [Sistema gerenciador de modulação hormonal](http://sgmh-v2.netlify.com) - Web application (*still in development*) with react.js, node.js and others libraries and packages. It uses API Rest for integration of the backend with the frontend and the PostgreSQL as BDMS.
+* [Sistema gerenciador de modulação hormonal](https://www.sgmh.com.br) - Web application (*still in development*) with react.js, node.js and others libraries and packages. It uses API Rest for integration of the backend with the frontend and the PostgreSQL as BDMS.
 * **Webstore for 3D printers and spare parts** - Web store developed in Java, with springboot, html and bootstrap that I used for my final paper in my bachelor's degree. *Not online and neither completely finished, it only work on localhost.*
