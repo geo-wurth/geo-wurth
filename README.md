@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### Academic Background
 
-* *Mechanical Engineering Bachelor Degree* issued by **UMC** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
-* *Project Management MBA Degree* issued by **FGV** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
+* *Mechanical Engineering Bachelor* Degree issued by **UMC** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
+* *Project Management MBA* Degree issued by **FGV** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
 * *System Analysis and Development* Degree issued by **FATEC** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
 
 ## Connect with me
