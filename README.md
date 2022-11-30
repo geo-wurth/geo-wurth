@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 * *Mechanical Engineering Bachelor Degree* issued by **UMC** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
 * *Project Management MBA Degree* issued by **FGV** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
-* *System Analysis and Development* issued by **FATEC** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
+* *System Analysis and Development* Degree issued by **FATEC** <img align="center" alt="spring" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Checkmark_green.svg/417px-Checkmark_green.svg.png" style="max-width:100%;">
 
 ## Connect with me
 [<img align="center" alt="george-linkedln" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">](https://www.linkedin.com/in/george-wurthmann-87515625/)
